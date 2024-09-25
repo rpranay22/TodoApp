@@ -1,0 +1,19 @@
+.items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#sub {
+    width: 300px !important;
+}
+
+.card {
+    margin: 5px;
+}
+
+.primary {
+    background-color: rgb(132, 132, 234);
+    margin-top: 5px;
+    ;
+}

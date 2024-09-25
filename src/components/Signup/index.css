@@ -1,0 +1,26 @@
+.center {
+    background-color: rgb(187, 192, 192);
+    margin-left: 50vw;
+    margin-top: 50vh;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sup {
+    padding: 20px;
+
+}
+
+.ipz {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    height: 300px;
+    align-content: center;
+}
